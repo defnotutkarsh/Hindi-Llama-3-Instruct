@@ -1,0 +1,7 @@
+unsloth[colab-new]
+xformers
+trl
+peft
+accelerate
+bitsandbytes
+gradio
