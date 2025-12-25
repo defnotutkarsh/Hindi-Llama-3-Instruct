@@ -29,3 +29,14 @@ A fine-tuned version of **Llama-3 8B** optimized for casual **Hindi/Hinglish con
    ```bash
    git clone [https://github.com/defnotutkarsh/Hindi-Llama-3-Instruct.git](https://github.com/defnotutkarsh/Hindi-Llama-3-Instruct.git)
    cd Hindi-Llama-3-Instruct
+2.Install dependencies:
+pip install -r requirements.txt
+3.Run the App:
+python app.py
+
+Performance
+Base Model Loss: ~1.8
+
+Final Fine-Tuned Loss: 0.18 (Significant improvement in fluency and style adaption).
+
+Created by [@defnotutkarsh].
